@@ -1,0 +1,10 @@
+"networks": {
+    .
+    .
+    "mainnet": {
+        "host": "http://ropsten.infura.io/v3/9c9bebdb99fd43d8a27fd08557ec8468"
+    }
+    "rinkeby":...
+    .
+    .
+}

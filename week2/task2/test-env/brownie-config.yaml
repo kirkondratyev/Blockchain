@@ -1,0 +1,6 @@
+networks:
+    default: mainnet-fork
+    mainnet-fork:
+        cmd_settings:
+            unlock:
+                - 0xC098B2a3Aa256D2140208C3de6543aAEf5cd3A94
